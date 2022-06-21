@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap');
+
+/* Signup */
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(251, 250, 250);
+    display: flex;
+    margin-bottom: 60px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+    text-transform: uppercase;
+  }
+  h1{
+    color: rgb(80, 79, 79);
+    margin-left: 10%;
+  }
+  .reg-form{
+    max-width: 400px;
+      margin: 0 auto;
+      margin-top: 10%;
+      margin-right: 65%;
+  }
+
+  .login-form{
+    max-width: 400px;
+      margin: 0 auto;
+      margin-top: 10%;
+      margin-right: 65%;
+  }
+  .add-product{
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 10%;
+    margin-right: 65%;
+  }
+
+
